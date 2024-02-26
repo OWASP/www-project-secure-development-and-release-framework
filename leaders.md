@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Matthew Flannery](mailto:flannery.matt@gmail.com)
+* [Alistair De Blacquiere-Clarkson](mailto:adbc@ai-bible.com)
